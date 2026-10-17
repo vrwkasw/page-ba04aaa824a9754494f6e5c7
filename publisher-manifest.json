@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5e789f7ae1e0116369c8b3ff",
+  "owner": "vrwkasw",
+  "repo": "page-ba04aaa824a9754494f6e5c7",
+  "title": "MG",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ba04aaa824a9754494f6e5c7",
+      "a": "MG",
+      "b": "",
+      "entity": "MG",
+      "brand": "MG",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f78d5a1f9c6125783c817d3bd22b11cef889e04a73bbe7dfd7dac6d82de7f09e",
+      "content": {
+        "keyword1": "MG",
+        "keyword2": "",
+        "primary_entity": "MG",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "MG 想先跟你坐下来把步子放慢：没有可核对的官方身世，就不编故事。下面用时间线带你看用法、三份方案、客户端这件事，以及你可能正好想问的。",
+          "AI_DESCRIPTION": "MG 想先跟你坐下来把步子放慢：没有可核对的官方身世，就不编故事。下面用时间线带你看用法、三份方案、客户端这件事，以及你可能正好想问的。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{background:#f4eadc;color:#2a1f1a;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.65;font-size:17px}\na{color:#b33b2b;text-decoration:none}\na:hover{text-decoration:underline}\n.side{position:fixed;left:0;top:0;bottom:0;width:8.6rem;background:#faf4ea;border-right:4px solid #b33b2b;padding:1.4rem 0.85rem;z-index:8;display:flex;flex-direction:column;gap:0.35rem}\n.side .mark{font-weight:700;letter-spacing:0.12em;font-size:0.78rem;color:#b33b2b;margin-bottom:0.8rem}\n.side a{display:block;color:#2a1f1a;border:4px solid transparent;padding:0.45rem 0.4rem;font-size:0.92rem}\n.side a:hover{border-color:#2a1f1a;text-decoration:none;background:#f4eadc}\nmain{margin-left:8.6rem;padding:1.6rem 6vw 4rem 3.2rem;max-width:58rem}\n.hero{margin-bottom:3.2rem}\n.kicker{font-size:0.82rem;letter-spacing:0.18em;color:#b33b2b;font-weight:700;margin-bottom:0.7rem}\nh1{font-size:clamp(1.8rem,4vw,2.7rem);line-height:1.25;font-weight:750;max-width:18em;margin-bottom:1rem}\n.lead{color:#5a4a42;max-width:38em;margin-bottom:1.8rem}\n.track{border-left:4px solid #b33b2b;margin:0.4rem 0 0 0.7rem;padding:0.2rem 0 0.2rem 0}\n.beat{position:relative;padding:0 0 1.15rem 1.6rem}\n.beat:last-child{padding-bottom:0}\n.beat .box{border:4px solid #2a1f1a;background:#faf4ea;padding:1.05rem 1.15rem 1.1rem}\n.beat .when{display:block;font-size:0.75rem;letter-spacing:0.14em;color:#b33b2b;font-weight:700;margin-bottom:0.28rem}\n.beat h2{font-size:1.12rem;margin-bottom:0.35rem}\n.beat p{color:#4a3c36;font-size:0.98rem}\n.dot{position:absolute;left:-0.55rem;top:1.15rem;width:0.85rem;height:0.85rem;background:#b33b2b;border:4px solid #2a1f1a}\nh2.block{font-size:1.55rem;margin:0 0 0.7rem;line-height:1.3}\nh3{font-size:1.12rem;margin:0 0 0.4rem}\n.sec{margin:0 0 2.8rem}\n.note{border:4px solid #2a1f1a;background:#faf4ea;padding:1.15rem 1.2rem;margin:0 0 1rem;max-width:42em}\n.steps{display:flex;flex-direction:column;gap:0.85rem}\n.step{border:4px solid #2a1f1a;background:#faf4ea;padding:1rem 1.1rem}\n.step b{color:#b33b2b}\n.plans{display:flex;flex-direction:column;gap:0.9rem}\n.plan{border:4px solid #2a1f1a;background:#faf4ea;padding:1.15rem 1.2rem}\n.plan.hot{border-width:6px;border-color:#b33b2b}\n.planhead{display:flex;flex-wrap:wrap;justify-content:space-between;gap:0.4rem 1rem;align-items:baseline;margin-bottom:0.45rem}\n.planhead h3{margin:0;font-size:1.28rem}\n.price{font-weight:750}\n.year{display:block;color:#5a4a42;font-size:0.92rem;margin:0 0 0.55rem}\n.tag{display:inline-block;border:4px solid #b33b2b;color:#b33b2b;font-size:0.75rem;letter-spacing:0.08em;padding:0.1rem 0.45rem;font-weight:700;margin-left:0.4rem;vertical-align:middle}\n.plan ul{padding-left:1.15rem;color:#3c312c}\n.plan li{margin:0.2rem 0}\n.clients .row{border:4px solid #2a1f1a;background:#faf4ea;padding:1.05rem 1.15rem;margin:0 0 0.75rem}\n.faq{list-style:none;counter-reset:q;display:flex;flex-direction:column;gap:0.75rem}\n.faq li{border:4px solid #2a1f1a;background:#faf4ea;padding:1rem 1.1rem 1.05rem;counter-increment:q}\n.faq li h3{font-size:1.05rem}\n.faq li h3::before{content:counter(q,decimal-leading-zero) \"  \";color:#b33b2b}\n.faq li p{color:#43362f}\n.foot{border-top:4px solid #b33b2b;padding-top:1rem;color:#6b5c52;font-size:0.9rem}\n@media (max-width:820px){\n.side{position:static;width:auto;flex-direction:row;flex-wrap:wrap;border-right:none;border-bottom:4px solid #b33b2b;gap:0.2rem;padding:0.7rem 0.8rem}\n.side .mark{width:100%;margin-bottom:0.2rem}\n.side a{border:4px solid #2a1f1a;padding:0.28rem 0.5rem;background:#faf4ea}\nmain{margin-left:0;padding:1.2rem 1rem 3rem}\nh1{font-size:1.7rem}\n}\n</style><nav class=\"side\">\n<span class=\"mark\">MG 目录</span>\n<a href=\"#open\">开场</a>\n<a href=\"#use\">用法</a>\n<a href=\"#plans\">方案</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问答</a>\n</nav>\n<main>\n<section class=\"hero\" id=\"open\">\n<p class=\"kicker\">时间线 · 从你点进来这一刻</p>\n<h1>MG：咱们按时间线把话说开</h1>\n<p class=\"lead\">嘿，先别把页面滑成一阵风。公开材料里能确定的只有品牌名 MG，没有可核对的公司简介、成绩单或身份挂牌。所以我不会替它编出身世，也不会把还没写进事实里的本事说成已经发生。你把下面当成朋友递过来的说明书就行。</p>\n<div class=\"track\">\n<article class=\"beat\">\n<span class=\"dot\"></span>\n<div class=\"box\">\n<span class=\"when\">01 · 此刻</span>\n<h2>你刚推开门</h2>\n<p>右手边没有闪来闪去的口号。你要是来找一句能直接拿去转发的漂亮话，这里可能让你失望。我想先确认一件事：你愿意把价格、用法和问号摊在桌上，再决定要不要往下走。</p>\n</div>\n</article>\n<article class=\"beat\">\n<span class=\"dot\"></span>\n<div class=\"box\">\n<span class=\"when\">02 · 稍等几行</span>\n<h2>我会把不知道的说成不知道</h2>\n<p>节点好不好、快不快、稳不稳、评测怎么写，我手里没有可引用的记录。兼容哪些系统、日志怎么查、钱能不能退，同样没有依据。碰到这些，我会停住，不拿空话填满。</p>\n</div>\n</article>\n<article class=\"beat\">\n<span class=\"dot\"></span>\n<div class=\"box\">\n<span class=\"when\">03 · 下一站</span>\n<h2>用法比口号先到</h2>\n<p>再往下是四步相处方式，然后才是三份价目。价码是写给你对照的，不是催你当场拍板。年付只是另一笔算法，方便你心算。</p>\n</div>\n</article>\n<article class=\"beat\">\n<span class=\"dot\"></span>\n<div class=\"box\">\n<span class=\"when\">04 · 末了</span>\n<h2>客户端和问答放在后头</h2>\n<p>下载地址我核对不到可靠来源，所以不放安装包。问答按编号排好，你可以从自己最卡住的那条读起。走吧，我们按这个顺序聊。</p>\n</div>\n</article>\n</div>\n</section>\n<section class=\"sec\" id=\"use\">\n<h2 class=\"block\">用法：像跟朋友约好见面那样</h2>\n<p class=\"note\">没有“打开就能开工”的魔法按钮可写。下面四步是我建议你自己走的顺序，慢一点反而少走回头路。</p>\n<div class=\"steps\">\n<article class=\"step\">\n<h3><b>第一步</b> · 先认自己的节奏</h3>\n<p>一个人偶尔翻一翻，和一小组人天天共用，不是同一件事。基础版像你自己的抽屉；旗舰版像你放在书包夹层里那本常翻的册子；团队版像会议室墙上那块要写名字的白板。先承认自己属于哪一种，比先盯价格更省事。</p>\n</article>\n<article class=\"step\">\n<h3><b>第二步</b> · 把登录位当成座位表</h3>\n<p>方案里写的 3、5、20，请先理解成同时坐下来的名额，而不是保证每台机器都会表现一致。具体以你后来真正拿到的说明为准。座位不够就换一排，别硬挤。</p>\n</article>\n<article class=\"step\">\n<h3><b>第三步</b> · 月付和年付先心算一遍</h3>\n<p>月付好看懂，年付是十二个月捆在一起的算法。基础版按年付是 ¥150，旗舰版 ¥350，团队版 ¥850。这里没有下单按钮，也没有支付链接。你要是日后在别处看见收款页，记得自己核对是不是同一份价目。</p>\n</article>\n<article class=\"step\">\n<h3><b>第四步</b> · 把问号留下来，别自己吓自己</h3>\n<p>碰到退款、系统能不能装、后台有没有记录这类问题，请直接去后面的编号问答。我宁可让答案短一点，也不拿“应该可以”把你哄走。</p>\n</article>\n</div>\n</section>\n<section class=\"sec\" id=\"plans\">\n<h2 class=\"block\">三份方案，一行一行摊开看</h2>\n<p class=\"note\">不做成并排擂台。你顺着往下读就行。权益写的是相处方式，不写测不出来的速度，也不写没有依据的线路故事。</p>\n<div class=\"plans\">\n<article class=\"plan\">\n<div class=\"planhead\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n</div>\n<p class=\"year\">按年付仅需 ¥150/年</p>\n<ul>\n<li>适合一个人，用得不密、但希望随时能坐下的节奏</li>\n<li>3 个登录位，当作三张椅子</li>\n<li>说明和更新以公开页面为准，不另承诺内部渠道</li>\n<li>想先相处一个月，再决定要不要换成按年算，可以从这份开始</li>\n</ul>\n</article>\n<article class=\"plan hot\">\n<div class=\"planhead\">\n<h3>旗舰版 <span class=\"tag\">我常指给朋友</span></h3>\n<p class=\"price\">¥35/月</p>\n</div>\n<p class=\"year\">按年付仅需 ¥350/年</p>\n<ul>\n<li>适合已经决定要长期放在手头、会反复打开的人</li>\n<li>5 个登录位，家里或工位上轮着坐也还宽敞</li>\n<li>沟通上我会建议你把问题写清楚再发，回复会尽量往前排，但不拿没有依据的全天候承诺来打包票</li>\n<li>年付算法对常用的人更划得来，仍请你按自己的预算算，别被“推荐”两个字推着走</li>\n</ul>\n</article>\n<article class=\"plan\">\n<div class=\"planhead\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n</div>\n<p class=\"year\">按年付仅需 ¥850/年</p>\n<ul>\n<li>适合一小群人要共用同一套约定的时候</li>\n<li>20 个登录位，先把座位表在组内说清楚，免得回头互相挤</li>\n<li>规则、命名、谁来对接，建议你们自己先写一页备忘；页面上没有可核对的企业定制条款，我就不替它发明</li>\n<li>人一多，沟通成本比价码更显眼，选之前把“谁付钱、谁保管、谁有权改”三件事聊开</li>\n</ul>\n</article>\n</div>\n</section>\n<section class=\"sec\" id=\"clients\">\n<h2 class=\"block\">客户端这件事，我得跟你说实话</h2>\n<p class=\"note\">手头没有可核验的官方下载地址，也没有能点名的应用商店条目。下面不放安装包，也不编一个“官方客户端全家桶”。链接空着，是为了不把你带到不可靠的地方。</p>\n<article class=\"row\">\n<h3>浏览器里先把说明读完</h3>\n<p>很多决定其实在安装之前就能做完：你要几把椅子、月付还是年付、组里谁来保管。先读文字，再碰软件，少踩坑。</p>\n</article>\n<article class=\"row\">\n<h3>你已经自己拿到的工具</h3>\n<p>若你从自己信任的渠道拿到和 MG 相关的软件，以那份软件自己的说明为准。我这边不能替它担保来源，也不能列出系统名单。</p>\n</article>\n<article class=\"row\">\n<h3>看见陌生下载页时</h3>\n<p>地址对不上、域名很新、非要你关安全提示才能继续的，停一下。把页面发给你信得过的人看一眼，比我在这里写一句空安慰有用。</p>\n</article>\n</section>\n<section class=\"sec\" id=\"faq\">\n<h2 class=\"block\">你可能正好想问的</h2>\n<ol class=\"faq\">\n<li>\n<h3>MG 到底是做什么的？</h3>\n<p>能确定的是品牌名。没有更多可核对的官方介绍，我就不给它安一个行业身份。你把这份页面当成会员方案和使用说明来读，最不容易被带跑。</p>\n</li>\n<li>\n<h3>为什么完全不写快不快、稳不稳？</h3>\n<p>因为没有可引用的实测、节点清单或他人评价。谁要是把这些说得像天气预报一样肯定，你自己留个心眼。我宁可让段落短一点。</p>\n</li>\n<li>\n<h3>三份价目可以同时开吗？</h3>\n<p>页面把它们写成三选一的相处方式。有没有捆绑、升档、拼单，公开材料里没写，我不能替你发明规则。选之前以你后来真正看到的条款为准。</p>\n</li>\n<li>\n<h3>年付是不是一定更划算？</h3>\n<p>算术上，基础版 ¥150、旗舰版 ¥350、团队版 ¥850 对应十二个月捆在一起。划不划算取决于你会不会用满这段时间。用不满就别为了“看起来便宜”把自己绑住。</p>\n</li>\n<li>\n<h3>客户端链接为什么是空的？</h3>\n<p>找不到能核对的官方下载地址。空着比随手贴一个来路不明的按钮更负责。你若需要安装，请走你自己信得过的渠道，并核对发布者信息。</p>\n</li>\n<li>\n<h3>不合适的话能退吗？</h3>\n<p>退款规则没有提供，我不能承诺退不退得成、退多少、要等几天。选之前把收费说明自己看完，不要把我的客气话当成合同。</p>\n</li>\n<li>\n<h3>登录位和设备是一回事吗？</h3>\n<p>请先把 3、5、20 理解成同时坐下的名额。它是不是严格等于某几台具体机器，页面上没有兼容性说明，我就不往实处指。超了名额先跟同组的人协调，而不是默认“再挤一张椅子没关系”。</p>\n</li>\n</ol>\n</section>\n<p class=\"foot\">MG · 文字按时间线写给你，不代替条款。支付、下载与身份核验，请只相信你能亲自核对的来源。</p>\n</main>",
+          "hash": "cdb2c7f3d20a00fbc78a4034519bb97687d1458d797ca01dc8746d2a0648cc97",
+          "seo": {
+            "title": "MG｜按时间线把话说开",
+            "keywords": "MG,会员方案,使用说明,客户端说明,常见问题,年付价",
+            "description": "MG 想先跟你坐下来把步子放慢：没有可核对的官方身世，就不编故事。下面用时间线带你看用法、三份方案、客户端这件事，以及你可能正好想问的。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6-build",
+          "design": {
+            "no": "6181",
+            "hero": "6 纵向时间线引入",
+            "palette": "2 米白配砖红",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "34yjy6.cn",
+    "host": "p-61ec1b0532.34yjy6.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "93f102c4abdb11b41ce226090be4442925810447a38df825a3d14a87d4110dda",
+    "sitemap.xml": "2cfb6b0b4f8bf64191b81fb240c3f8b07963cabf4413666cbcbda2a41e66ffdc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8e564eef8fe7354389cb54fb76cb5770105b249db7d938dd82b51e58072a588a",
+    "robots.txt": "4b31e78b388ef7d34cf6c45c8fda6bd15eb9b2383bca3264fc8fde8d29da8a22",
+    "c0aa3edf3080f304893c3a30e287917a.txt": "c459571524d8be073fb3ba5045305737df0acf23683ea55fdab7c5eaddc5c41d"
+  },
+  "revision": "758ccc14e595f16efb53eb9081c8125d8f3c20030252793022b799064e62ea48"
+}
